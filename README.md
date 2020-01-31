@@ -30,6 +30,8 @@ A React-based Google Books Search that displays books on user searches. Search f
 >- Link: "https://books.google.com/booksid=EbypCgAAQBAJ&printsec=frontcover&dq=isabel++allende&hl=&cd=1&source=gbs_api#v=onepage&q=isabel%20%20allende&f=false"
 > Title: "The House of The Spirits"
 
+## Screenshots
+
 ![terminal MERN searchbook](google/images/searchbook.png)
 
 ![Github MERN searchexample](google/images/isabels.png)
@@ -77,7 +79,7 @@ A React-based Google Books Search that displays books on user searches. Search f
 - MongoDB
 - Terminal/Gitbash
 
-# Author
+## Author
 
 >-  **[Angel-Cochachez](https://github.com/codifyme/google-books-search)**. MERN Stack Developer
 @codifyme:+1 :shipit:
