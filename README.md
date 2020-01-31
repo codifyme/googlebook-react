@@ -1,5 +1,5 @@
 # React Google Book Search
-A React-based Google Books Search that displays books on user searches. Search for books using the Google Books API by typing in a title and clicking on "Search". The user can view the book which will bring them to the page on Google Books by clicking "View" in the results for the search. Future update will be working on the "Save Book" button to save the book to the database.
+A React-based Google Books Search that displays books on user searches. This application search for books using the Google Books API by typing in a title and clicking on "Search". The user can view the book which will bring them to the page on Google Books by clicking "View" in the results for the search. Future update will be working on the "Save Book" button to save the book to the database.
 
 ## Packages Setup
 1. npm init => initialize package.json
