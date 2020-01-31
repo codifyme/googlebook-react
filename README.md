@@ -79,5 +79,6 @@ A React-based Google Books Search that displays books on user searches. Search f
 
 # Author
 
->-  **[Angel-Cochachez](https://github.com/codifyme/google-books-search)**. JS/MongoDB/Node.js/Express
-@codifyme:+1 This Google Book search looks great! Are your ready to search your favorite book :shipit:
+>-  **[Angel-Cochachez](https://github.com/codifyme/google-books-search)**. MERN Stack Developer
+@codifyme:+1 :shipit:
+>- Happy Book Searching!
